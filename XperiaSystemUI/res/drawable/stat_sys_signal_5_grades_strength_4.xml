@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="signal_strength_4" android:height="17.0dip" android:width="17.0dip" android:autoMirrored="true" android:viewportWidth="17.0" android:viewportHeight="17.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:translateX="2.0" android:translateY="2.0">
+        <path android:name="1" android:fillColor="?fillColor" android:pathData="M0,14 L2,14 L2,12 L0,14 Z" android:strokeWidth="1.0" />
+        <path android:name="2" android:fillColor="?fillColor" android:pathData="M2.9997,11.0003 L2.9997,14.0003 L5.0007,14.0003 L5.0007,8.9993 L2.9997,11.0003 Z" android:strokeWidth="1.0" />
+        <path android:name="3" android:fillColor="?fillColor" android:pathData="M6.0003,7.9997 L6.0003,13.9997 L8.0003,13.9997 L8.0003,9.88842773 L8.0003,5.9997 L6.0003,7.9997 Z" android:strokeWidth="1.0" />
+        <path android:name="4" android:fillColor="?fillColor" android:pathData="M9,5 L9,14 L11,14 L11,3 L9,5 Z" android:strokeWidth="1.0" />
+        <path android:name="5" android:fillColor="?backgroundColor" android:pathData="M14.0004,-0.0004 L11.9994,2.0006 L14.0004,2.0006 L14.0004,-0.0004 Z" android:strokeWidth="1.0" />
+        <group android:name="!" android:translateX="12.0" android:translateY="3.0">
+            <path android:name="dot" android:fillColor="?singleToneColor" android:pathData="M0.5,11 L2,11 L2,9.5 L0.5,9.5 L0.5,11 Z" android:strokeWidth="1.0" />
+            <path android:name="line" android:fillColor="?singleToneColor" android:pathData="M0.5,8.5 L2,8.5 L2,0.5 L0.5,0.5 L0.5,8.5 Z" android:strokeWidth="1.0" />
+        </group>
+    </group>
+</vector>
